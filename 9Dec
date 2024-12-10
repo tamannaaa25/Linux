@@ -1,0 +1,13 @@
+ls = show list
+cd =to go to home or open a directory 
+mkdir = to make  a folder / directory
+touch= to make a file 
+rmdir= to remove an EMPTY directory 
+rm -r =to remove anything
+cp = copy
+mv file_location file_destination = to move file 
+pwd =
+crtl+alt+t = to open teminal
+crtl+d =to close teminal
+clear= to clear area
+
